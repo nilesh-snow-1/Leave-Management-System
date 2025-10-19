@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="leave_type" table="x_521508_leave_m_0_leave_request" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>leave_type</element>
+            <name>x_521508_leave_m_0_leave_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-19 14:49:10</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>leave_type</sys_name>
+            <sys_package display_value="Leave Management System" source="x_521508_leave_m_0">5809c5df8320b210e4569650ceaad39f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Leave Management System">5809c5df8320b210e4569650ceaad39f</sys_scope>
+            <sys_update_name>sys_choice_x_521508_leave_m_0_leave_request_leave_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-19 14:49:10</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>leave_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Casual Leave</label>
+            <language>en</language>
+            <name>x_521508_leave_m_0_leave_request</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-19 14:49:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-19 14:49:16</sys_updated_on>
+            <value>cl</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>leave_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Earned Leave</label>
+            <language>en</language>
+            <name>x_521508_leave_m_0_leave_request</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-19 14:49:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-19 14:49:35</sys_updated_on>
+            <value>el</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>leave_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sick Leave</label>
+            <language>en</language>
+            <name>x_521508_leave_m_0_leave_request</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-19 14:49:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-19 14:49:49</sys_updated_on>
+            <value>sl</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>leave_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>WFH</label>
+            <language>en</language>
+            <name>x_521508_leave_m_0_leave_request</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-19 14:50:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-19 14:50:09</sys_updated_on>
+            <value>wfh</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
